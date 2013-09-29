@@ -1,0 +1,11 @@
+(dp1
+S'a'
+S'echo hello'
+p2
+sS'l'
+S'ls -al --color=auto'
+p3
+sS'g'
+S'ls -al'
+p4
+s.
