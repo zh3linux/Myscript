@@ -1,0 +1,1 @@
+kill $(lsof -i:7099|grep python|awk '{print $2}')
